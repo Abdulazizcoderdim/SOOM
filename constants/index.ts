@@ -1,4 +1,4 @@
-const sidebarLinks = [
+export const sidebarLinks = [
   {
     label: 'Home',
     route: '/',
@@ -22,6 +22,6 @@ const sidebarLinks = [
   {
     label: 'Personal Room',
     route: '/personal-room',
-    imgUrl: '/icons/add-perso.svg',
+    imgUrl: '/icons/add-personal.svg',
   },
 ]
